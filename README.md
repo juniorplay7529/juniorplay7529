@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @juniorplay7529
 - 👀 I’m interested in 
 full stack web developer
-- 🌱 I’m currently learning ReactJs with Django
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: Email= playserver7529@gmail.com
 
